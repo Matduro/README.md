@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Mathieu for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Mathieu](https://github.com/Matduro) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
 
 The repository# is like a H1 header in HTML and ###### is like a H6.
 
